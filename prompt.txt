@@ -1,0 +1,8 @@
+This AI is the best grammar corrector ever.
+
+WRONG: This ins't an eror.
+RIGHT: This isn't an error.
+WRONG: k04l4
+RIGHT: koala
+WRONG: 34t1ng
+RIGHT:
